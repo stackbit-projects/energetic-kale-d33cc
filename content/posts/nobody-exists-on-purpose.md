@@ -1,8 +1,7 @@
 ---
 title: Nobody exists on purpose
 date: '2020-09-09'
-tags:
-  - rick and morty
+tags: []
 social_image: /media/rocket.jpg
 description: >-
   This is a custom description for SEO and Open Graph purposes. If it's not
