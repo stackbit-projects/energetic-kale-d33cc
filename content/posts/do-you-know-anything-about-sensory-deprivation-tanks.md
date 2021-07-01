@@ -3,7 +3,6 @@ title: Do you know anything about sensory deprivation tanks?
 date: '2021-02-02'
 tags:
   - Puppy Training
-  - tv series
 social_image: /media/rocket.jpg
 description: >-
   This is a custom description for SEO and Open Graph purposes. If it's not
