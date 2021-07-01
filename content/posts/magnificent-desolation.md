@@ -3,7 +3,7 @@ title: Magnificent Desolation
 date: '2021-02-22'
 tags:
   - Diet
-  - nasa
+  - Puppy Accessories
 social_image: /media/rocket.jpg
 description: >-
   This is a custom description for SEO and Open Graph purposes. If it's not
