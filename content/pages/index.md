@@ -1,8 +1,7 @@
 ---
-template: 'index-template'
-title: 'Gatsby Starter Glass'
+template: index-template
+title: Gatsby Starter Glass
 ---
+\#Two Paws 🐾 One Tale 📖
 
-#Hello World
-
-A minimal & beautiful gatsby personal blog starter with nice glassmorphism UI.
+Tune in for blog posts on 🐶 **Puppy Training**, 🦴 **Feeding a Healthy Puppy Diet**, and all things ❤️** Raising a Healthy Puppy**!
