@@ -2,7 +2,7 @@
 title: Magnificent Desolation
 date: '2021-02-22'
 tags:
-  - Test 2
+  - Puppy Training
   - nasa
 social_image: /media/rocket.jpg
 description: >-
