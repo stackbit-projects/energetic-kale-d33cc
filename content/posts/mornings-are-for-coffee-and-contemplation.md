@@ -3,7 +3,7 @@ title: Mornings are for coffee and contemplation
 date: '2020-03-01'
 tags:
   - Vet Advice
-  - tv series
+  - Puppy Grooming
 social_image: /media/rocket.jpg
 description: >-
   This is a custom description for SEO and Open Graph purposes. If it's not
